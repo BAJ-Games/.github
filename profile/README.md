@@ -1,6 +1,6 @@
 ## Hi there 👋
 ***This is the BAJ-Games github orgnisation***\
-Please also visit us at https://baj-games-page.github-b98.workers.dev to check out the finsished versions of our games.
+Please also visit us at https://baj-games.pages.dev/ to check out the finsished versions of our games.
 
 <!--
 
