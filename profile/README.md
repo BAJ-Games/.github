@@ -14,6 +14,13 @@ Please also visit us at https://baj-games.pages.dev/ to check out the finsished 
 - ***Cloudflare:*** The Code for the BAJ-Games Website
 - ***Godot-Triggers:*** A forked repo from @JustinCase-306
 
+# Organization Governance
+
+Our organization is governed by a mutual agreement
+between its founding administrators.
+
+📄 [Read the Organization Agreement](../governance/ORGANIZATION_AGREEMENT.md)
+
 
 <!--
 
